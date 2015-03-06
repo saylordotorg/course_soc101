@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SOC101: Introduction to Sociology"
+course_description: "This course is designed to introduce you to a range of basic sociological principles so that you can develop your own sociological imagination. You will learn about the origins of sociology as a discipline and be introduced to major sociological theories and methods of research. You will also explore such topics as sex and gender, deviance, and racism."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Social Inequality** <span id="3"></span> 
 *In this unit, you will address the growing concerns of global and
 national inequality. You will explore questions like how did wealth
